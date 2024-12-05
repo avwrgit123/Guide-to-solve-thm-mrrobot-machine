@@ -17,3 +17,4 @@ It explains using tools like Gobuster to to find hidden directories and document
 <br>
 Full guide on thm mrrobot.pdf
 <br>
+https://github.com/avwrgit123/Guide-to-solve-thm-mrrobot-machine/blob/main/thm%20mrrobot.pdf
