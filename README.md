@@ -15,3 +15,5 @@ It explains using tools like Gobuster to to find hidden directories and document
 5.Exploitation: Participants use discovered vulnerabilities to gain access to restricted areas and extract valuable information from target machine.
 <br>
 <br>
+Full guide on thm mrrobot.pdf
+<br>
